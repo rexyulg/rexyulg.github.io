@@ -1,1 +1,1 @@
-# Hello. Welcome to learn Git together.
+# Hello. Welcome to Learn Git together.
